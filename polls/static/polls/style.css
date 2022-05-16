@@ -1,0 +1,9 @@
+li a {
+    color: rgb(231, 105, 8);
+    font-style: italic;
+    font-weight: bold;
+}
+
+body {
+    background: white url("images/N_logo_1024.png") no-repeat;
+}
